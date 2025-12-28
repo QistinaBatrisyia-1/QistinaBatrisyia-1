@@ -1,42 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Qistina Batrisyia Binti Noor Mohd Azlan.</h1>
+<h3 align="center">A passionate student studying Data Engineering in University Technology Malaysia (UTM),,committed to life long learning with great passion towards studying computer science related fields.</h3>
 
-<!--
-**QistinaBatrisyia-1/QistinaBatrisyia-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<h1 align="center">I'm Qistina Batrisyia Binti Noor Mohd Azlan.</h1>
-<h3 align="center">A passionate student studying Data Engineering in University Technology Malaysia (UTM),committed to life long learning with great passion towards studying computer science related fields. </h3>
+- 🔭 I’m currently working on **Design Thinking Project**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qistinabatrisyia-1&label=Profile%20views&color=0e75b6&style=flat" alt="qistinabatrisyia-1" /> </p>
+- 🌱 I’m currently learning **C++,Java,HTML and CSS.**
 
-- 🌱 I’m currently learning **C++,Java and HTML and CSS.**
-
-- 📫 How to reach me **qbtina27@gmail.com**
+- 👨‍💻 All of my projects are available at [https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/](https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/qistina-batrisyia-binti-noor-mohd-azlan-47833b397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qistina-batrisyia-binti-noor-mohd-azlan-47833b397" height="30" width="40" /></a>
+<a href="https://kaggle.com/qvqailuro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="qvqailuro" height="30" width="40" /></a>
 <a href="https://instagram.com/qistina._x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qistina._x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qistinabatrisyia-1&show_icons=true&theme=dark&locale=en&layout=compact" alt="qistinabatrisyia-1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qistinabatrisyia-1&show_icons=true&theme=tokyonight&title_color=0033ff&text_color=080808&bg_color=e8ccff&hide_border=true&locale=en" alt="qistinabatrisyia-1" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qistinabatrisyia-1&theme=dark" alt="qistinabatrisyia-1" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qistinabatrisyia-1" alt="qistinabatrisyia-1" /></a> </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qistinabatrisyia-1&label=Profile%20views&color=0e75b6&style=flat" alt="qistinabatrisyia-1" /> </p>
 
