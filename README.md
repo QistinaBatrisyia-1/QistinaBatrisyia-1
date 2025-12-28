@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Qistina Batrisyia Binti Noor Mohd Azlan.</h1>
-<h3 align="center">A passionate student studying Data Engineering in University Technology Malaysia (UTM),committed to life long learning..</h3>
+<h1 align="center">I'm Qistina Batrisyia Binti Noor Mohd Azlan.</h1>
+<h3 align="center">A passionate student studying Data Engineering in University Technology Malaysia (UTM),committed to life long learning with great passion towards studying computer science related fields. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qistinabatrisyia-1&label=Profile%20views&color=0e75b6&style=flat" alt="qistinabatrisyia-1" /> </p>
 
-- 🌱 I’m currently learning **C++,Java and HTML**
+- 🌱 I’m currently learning **C++,Java and HTML and CSS.**
 
 - 📫 How to reach me **qbtina27@gmail.com**
 
