@@ -17,8 +17,15 @@
   <li>CyberX EXCO Activity Team</li>
   <li>etc.</b></li>
   </ui>
-  
-- 👨‍💻 All of my honor and awards,projects and everthing to know about me are available at [https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/](https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/) 💌
+ <h3 align="left">:mortar_board:My Course Updates:</h3>
+ <p>
+   <ui>
+   <li><b>[SECP1513](https://github.com/QistinaBatrisyia-1/MyCourses/tree/main/SECP1513)</li>
+  <li>[SECJ1013](https://github.com/QistinaBatrisyia-1/MyCourses/tree/main/SECJ1013)</li>
+  <li>[SECR1013](https://github.com/QistinaBatrisyia-1/MyCourses/tree/main/SECR1013)</b></li>
+  </ui> </p>
+  <br><br>
+  - 👨‍💻 All of my honor and awards,projects and everthing to know about me are available at [https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/](https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/) 💌
 
 
 <h3 align="left">Connect with me:</h3>
