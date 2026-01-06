@@ -22,7 +22,9 @@
    <ui>
    <li><b>[SECP1513](https://github.com/QistinaBatrisyia-1/SECPH25-26-Courses/tree/main/SECP1513)</li>
   <li>[SECJ1013](https://github.com/QistinaBatrisyia-1/SECPH25-26-Courses/tree/main/SECJ1013)</li>
-  <li>[SECR1013](https://github.com/QistinaBatrisyia-1/MyCourses/tree/main/SECR1013)</b></li>
+  <li>[SECR1013](https://github.com/QistinaBatrisyia-1/SECPH25-26-Courses/tree/main/SECR1013)</li>
+  <li>[SECI1013](https://github.com/QistinaBatrisyia-1/SECPH25-26-Courses/tree/main/SECI1013)</li>
+     <li>[ULRS1032](https://github.com/QistinaBatrisyia-1/SECPH25-26-Courses/tree/main/ULRS1032)</b></li>
   </ui> </p>
   <br><br>
   - 👨‍💻 All of my honor and awards,projects and everthing to know about me are available at [https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/](https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/) 💌
