@@ -27,7 +27,7 @@
      <li>[ULRS1032](https://github.com/QistinaBatrisyia-1/SECPH25-26-Courses/tree/main/ULRS1032)</b></li>
   </ui> </p>
   <br><br>
-  - 👨‍💻 All of my honor and awards,projects and study progress as well as personal grow can be found through [https://qistinabatrisyia-1.github.io/Qistina-e-Portfolio/](https://qistinabatrisyia-1.github.io/QistinaPortfolio/) 💌
+  - 👨‍💻 All of my honor and awards,projects and study progress as well as personal grow can be found through (https://qistinabatrisyia-1.github.io/QistinaPortfolio/) 💌
 
 
 <h3 align="left">Connect with me:</h3>
