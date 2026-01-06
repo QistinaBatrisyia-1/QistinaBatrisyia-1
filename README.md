@@ -4,7 +4,7 @@
 
 
 - :v: I am a multilingual person who can speak **English,Malay and Chinese.**
-- 🔭 I’m currently working on **Design Thinking Project**
+- 🔭 I’m currently working on **Design Thinking Project** & **ECHO 8.0**.
 - 🌱 I’m currently learning **C++,Java,HTML and CSS.**
   <h3 align="left">:mortar_board:My Education Background:</h3>
 - During my middle school years (13-17 years),I studied at **SMK Bandar Utama Damansara (3).**
