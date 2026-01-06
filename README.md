@@ -21,7 +21,7 @@
  <p>
    <ui>
    <li><b>[SECP1513](https://github.com/QistinaBatrisyia-1/SECPH25-26-Courses/tree/main/SECP1513)</li>
-  <li>[SECJ1013](https://github.com/QistinaBatrisyia-1/MyCourses/tree/main/SECJ1013)</li>
+  <li>[SECJ1013](https://github.com/QistinaBatrisyia-1/SECPH25-26-Courses/tree/main/SECJ1013)</li>
   <li>[SECR1013](https://github.com/QistinaBatrisyia-1/MyCourses/tree/main/SECR1013)</b></li>
   </ui> </p>
   <br><br>
